@@ -559,8 +559,8 @@ address p {
     align-items: center;  
     margin: 0px auto;
 
-    outline: 2px solid tomato;
-    background-color: wheat;
+    /*outline: 2px solid tomato;
+    background-color: wheat;*/
 
 }
 
